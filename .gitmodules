@@ -1,3 +1,6 @@
 [submodule "themes/lugo"]
 	path = themes/lugo
 	url = https://github.com/Tostriez/ButtEmUp.git
+[submodule "ButtEmUp"]
+	path = ButtEmUp
+	url = https://github.com/Tostriez/ButtEmUp.git
