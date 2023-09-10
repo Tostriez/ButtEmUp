@@ -1,3 +1,3 @@
-[submodule "C:\Users\User\Desktop\Website\ButtEmUp\.git"] 
-  path = C:\Users\User\Desktop\Website\ButtEmUp\.git
-  url = https://github.com/Tostriez/ButtEmUp.git
+[submodule "ButtEmUp"] 
+  path = ButtEmUp
+  url = git://github.com/Tostriez/ButtEmUp.git
